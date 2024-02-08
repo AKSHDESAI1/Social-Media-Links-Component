@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://akshdesai1.github.io/Social-Media-Links-Component/)
 
 ## My process
 
@@ -64,6 +64,5 @@ In future, I focus on CSS Responsiveness using Media Query. and want to focus on
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@AKSHDESAI1](https://www.frontendmentor.io/profile/AKSHDESAI1)
 - Twitter - [@desaiaksh82](https://twitter.com/desaiaksh82)
